@@ -1,6 +1,6 @@
 # Задачи первого этапа отбора в школу программирования hh.ru
 
-## Задача 1
+[## Задача 1](https://github.com/Sir-Nightmare/hh_tasks/blob/master/task1.py)
 
 Дано равенство, в котором цифры заменены на буквы:  
 syx + uus = xsz  
